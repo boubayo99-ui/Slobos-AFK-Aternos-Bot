@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bouda.play.hosting",
-    "port": 56644,
+    "ip": "nouryoboub.exaroton.me:38158",
+    "port": 38158,
     "version": "1.20.1",
     "try-creative": false
   },
