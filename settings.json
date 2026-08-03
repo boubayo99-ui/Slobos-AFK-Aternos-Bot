@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "bouda.play.hosting",
+    "port": 56644,
     "version": "",
     "try-creative": false
   },
